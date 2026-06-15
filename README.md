@@ -15,6 +15,7 @@
 
 ### 👨‍💻 About Me
 
+- 🌐 Fullstack Developer
 - 🕷️ Webscraping Specialist
 - 🤖 AI Automation Builder
 - 🎓 Passionate about coding and innovative solutions
