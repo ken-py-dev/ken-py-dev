@@ -1,12 +1,12 @@
 <h1 align="center">
-  <b>Neth Orion</b> 👋
+  <b>Kenneth Panio</b> 👋
 </h1>
 
 <p align="center">
   <a href="mailto:nethriondev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
-  <a href="https://oreo.gleeze.com/?pfp" target="_blank">
+  <a href="https://oreo.gleeze.com/me" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website" />
   </a>
 </p>
