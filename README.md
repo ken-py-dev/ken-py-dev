@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://ken-py-dev.gleeze.com/me" target="_blank">
-    <img src="https://www.ken-py-dev.gleeze.com/api/screenshot?url=https%3A%2F%2Fken-py-dev.gleeze.com%2Fme" alt="Portfolio Preview" width="500" />
+    <img src="https://www.ken-py-dev.gleeze.com/api/screenshot?url=https%3A%2F%2Fken-py-dev.gleeze.com%2Fme&width=1280&height=720" alt="Portfolio Preview" width="500" />
   </a>
 </p>
 
