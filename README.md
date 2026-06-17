@@ -6,7 +6,7 @@
   <a href="mailto:nethriondev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
-  <a href="https://ken-py-dev.gleeze.com" target="_blank">
+  <a href="https://ken-py-dev.gleeze.com/me" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website" />
   </a>
 </p>
@@ -29,8 +29,8 @@
 ---
 
 <p align="center">
-  <a href="https://ken-py-dev.gleeze.com" target="_blank">
-    <img src="https://www.ken-py-dev.gleeze.com/api/screenshot?url=https%3A%2F%2Fken-py-dev.gleeze.com" alt="Portfolio Preview" width="500" />
+  <a href="https://ken-py-dev.gleeze.com/me" target="_blank">
+    <img src="https://www.ken-py-dev.gleeze.com/api/screenshot?url=https%3A%2F%2Fken-py-dev.gleeze.com%2Fme" alt="Portfolio Preview" width="500" />
   </a>
 </p>
 
