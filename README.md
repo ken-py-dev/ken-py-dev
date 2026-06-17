@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://ken-py-dev.gleeze.com" target="_blank">
-    <img src="https://api.microlink.io/?url=https://ken-py-dev.gleeze.com&screenshot=true&meta=false&embed=screenshot.url" alt="Portfolio Preview" width="500" />
+    <img src="https://www.ken-py-dev.gleeze.com/api/screenshot?url=https%3A%2F%2Fken-py-dev.gleeze.com" alt="Portfolio Preview" width="500" />
   </a>
 </p>
 
