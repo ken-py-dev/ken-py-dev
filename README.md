@@ -25,3 +25,10 @@
 <p align="center">
   <i>Let's build something amazing together.</i>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ken-py-dev&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-py-dev&layout=compact&theme=radical" alt="Top Languages" height="165" />
+</p>
